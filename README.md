@@ -18,12 +18,12 @@ R30+ is designed to provide users with secure access to financial growth strateg
 
 ## 🔐 Security & Identity
 
-- Secure REST API communication
-- Token-based authentication
-- Encrypted backend requests
-- Facial verification prototype
-- Secure endpoint configuration
-- Backend validation & access control
+- Secure REST API communication  
+- Token-based authentication  
+- Encrypted backend requests  
+- Facial verification prototype  
+- Secure endpoint configuration  
+- Backend validation & access control  
 
 Security is treated as a first-class concern, not an afterthought.
 
@@ -31,15 +31,15 @@ Security is treated as a first-class concern, not an afterthought.
 
 ## 🏗 Mobile Architecture
 
-- Kotlin
-- MVVM + Clean Architecture
-- Modular architecture structure
-- Dagger (Dependency Injection)
-- Coroutines & Flow
-- Room Database
-- Retrofit
-- Jetpack Compose (where applicable)
-- Adaptive UI for phone & tablet
+- Kotlin  
+- MVVM + Clean Architecture  
+- Modular architecture structure  
+- Dagger (Dependency Injection)  
+- Coroutines & Flow  
+- Room Database  
+- Retrofit  
+- Jetpack Compose (where applicable)  
+- Adaptive UI for phone & tablet  
 
 Built for scalability, maintainability, and long-term product growth.
 
@@ -47,11 +47,11 @@ Built for scalability, maintainability, and long-term product growth.
 
 ## ☁ Backend & Cloud Infrastructure
 
-- Custom REST API (Node.js)
-- MongoDB
-- Google Cloud deployment
-- Secure API routing & middleware protection
-- Structured backend validation
+- Custom REST API (Node.js)  
+- MongoDB  
+- Google Cloud deployment  
+- Secure API routing & middleware protection  
+- Structured backend validation  
 
 End-to-end system ownership — from Android client to deployed cloud backend.
 
@@ -59,12 +59,27 @@ End-to-end system ownership — from Android client to deployed cloud backend.
 
 ## 🚀 Core Features (Current Prototype)
 
-- Secure login & registration
-- Branded onboarding experience
-- Financial strategy guidance interface
-- Scalable backend integration
-- Authentication flow
+- Secure login & registration  
+- Branded onboarding experience  
+- Financial strategy guidance interface  
+- Scalable backend integration  
+- Authentication flow  
 - Role-ready architecture for future expansion
+
+---
+
+## 📷 Application Preview
+
+### 🔹 Welcome Experience
+![Welcome Screen](https://raw.githubusercontent.com/kikas45/R30-/main/screnBlue.png)
+
+### 🔹 Secure Authentication
+![Authentication](https://raw.githubusercontent.com/kikas45/R30-/main/orange.png)
+
+### 🔹 Financial Dashboard
+![Dashboard](https://raw.githubusercontent.com/kikas45/R30-/main/skyblue.png)
+
+Designed with adaptive UI principles to ensure optimal experience across multiple screen sizes.
 
 ---
 
@@ -81,8 +96,10 @@ https://github.com/kikas45/R30-
 
 R30+ demonstrates:
 
-- End-to-end mobile system ownership
-- Secure fintech-oriented architecture
-- Cloud deployment experience
-- Production-oriented Android development
+- End-to-end mobile system ownership  
+- Secure fintech-oriented architecture  
+- Cloud deployment experience  
+- Production-oriented Android development  
 - Backend API design & integration
+
+---

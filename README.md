@@ -70,14 +70,9 @@ End-to-end system ownership — from Android client to deployed cloud backend.
 
 ## 📷 Application Preview
 
-### 🔹 Welcome Experience
-![Welcome Screen](https://raw.githubusercontent.com/kikas45/R30-/main/screnBlue.png)
-
-### 🔹 Secure Authentication
-![Authentication](https://raw.githubusercontent.com/kikas45/R30-/main/orange.png)
-
-### 🔹 Financial Dashboard
-![Dashboard](https://raw.githubusercontent.com/kikas45/R30-/main/skyblue.png)
+| Welcome Experience | Secure Authentication | Financial Dashboard |
+|-------------------|--------------------|-------------------|
+| ![Welcome](https://raw.githubusercontent.com/kikas45/R30-/main/screnBlue.png) | ![Authentication](https://raw.githubusercontent.com/kikas45/R30-/main/orange.png) | ![Dashboard](https://raw.githubusercontent.com/kikas45/R30-/main/skyblue.png) |
 
 Designed with adaptive UI principles to ensure optimal experience across multiple screen sizes.
 

@@ -83,7 +83,10 @@ Designed with adaptive UI principles to ensure optimal experience across multipl
 👉 Repository:  
 https://github.com/kikas45/R30-
 
-(Downloadable prototype available inside the repository.)
+📥 **Download APK (Prototype)**:  
+[Download from Google Drive](https://drive.google.com/uc?export=download&id=1oA6tfppUIgOnwECjfduGEGxrwIyqovuD)
+
+> The prototype is fully functional for testing and demonstrates the R30+ core features.
 
 ---
 
